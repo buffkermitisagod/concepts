@@ -1,0 +1,6 @@
+config file
+
+IFACE=wlan1mon
+max=3
+random-mac=0
+random-ap=1
